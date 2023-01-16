@@ -34,7 +34,7 @@ dependencies = [
 [[package]]
 name = "nnsdk"
 version = "0.2.0"
-source = "git+https://github.com/jozz024/nnsdk-rs?branch=fiber#93526129164204f3e1bb407c28dfb53ba1823a93"
+source = "git+https://github.com/jozz024/nnsdk-rs?branch=fiber#0d3320e99c1261c87a757c4520f6edf90db033d1"
 dependencies = [
  "libc-nnsdk",
 ]
